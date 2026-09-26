@@ -2,6 +2,9 @@
 Smooth "Scuba Cat" bitmap animation on an SSD1306 0.96" I2C OLED display using ESP32, PlatformIO, and Wokwi simulation.
 #  Scuba Cat OLED Animation (ESP32)
 
+https://github.com/user-attachments/assets/f3cbdb05-3b80-46d3-9e85-f09860b660ac
+
+
 A smooth, flicker-free bitmap animation of "Scuba Cat" running on an SSD1306 0.96" OLED display. Developed with **PlatformIO** in VS Code and fully simulated with **Wokwi**.
 
 ---
